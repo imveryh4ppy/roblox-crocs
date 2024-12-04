@@ -15,17 +15,25 @@ NexusHub: ```loadstring(game:HttpGet("https://raw.githubusercontent.com/imveryh4
 Infinite Yield: ```loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()```
 
 ## Supported crocs/gaming chair/admin powers/glitches
-[Solara(windows only, level 3 but kinda good](https://getsolara.dev/),
-[Celery(Not Updated yet, windows only, level 7/8 but some UNC Functions is not available)](https://celery.zip/),
-[Wave(Freemium not available right now, but you can buy key to use it, 99% UNC Test)](https://getwave.gg/),
-RO-EXEC(paid and windows only),
-Krampus(paid and windows only),
+[Solara(windows only, level 3 but kinda good(honestly bad, cuz its popular scripts supports it)](https://getsolara.dev/),
+
+[Celery(Not Updated yet, windows only, level 7/8, 94% sUNC](https://celery.zip/),
+
+[Wave(Freemium never enabled, or you can get keys from giveaways and events, but you can buy a key to use it, 99% UNC Test)](https://getwave.gg/),
+
 Macsploit(MacOS only),
-Delta(Android only but you can use emulators, the official web is unknown, key system),
-[Code X(key system)](https://codex.lol/),
+
+Delta(Android and iOS only but you can use emulators, the official web is unknown, key system),
+
+[Code X, no require function](https://codex.lol/),
+
 Hydrogen(Android only but you can use emulators, the official web is unknown, keyless is paid),
-Evon(Sakpot and idk),
+
+Evon(Sakpot, free, keysystem, keyless is paid),
+
 [Vega X(idk and android only but you can use emulators, keyless is paid)](https://www.vegax.gg/)
+
+Arceus X
 
 ---
 
